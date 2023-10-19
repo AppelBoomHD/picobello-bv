@@ -1,4 +1,4 @@
 [submodule "web/modules/custom/trip-admin"]
-	path = web/modules/custom/trip-admin
+	path = web/modules/custom/trip_admin
 	url = https://github.com/AppelBoomHD/drupal-trip-admin.git
 	branch = main
