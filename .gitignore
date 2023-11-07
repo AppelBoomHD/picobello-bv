@@ -42,3 +42,5 @@ web/sites/simpletest
 # Ignore multi-site test environment.
 # simpletest
 
+# Ignore keys
+*.key
