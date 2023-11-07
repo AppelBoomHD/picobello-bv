@@ -23,6 +23,7 @@
         "drupal/search_api": "^1.30",
         "drupal/search_api_autocomplete": "^1.8",
         "drupal/search_api_solr": "^4.3",
+        "drupal/simple_oauth": "^5.2",
         "drush/drush": "^12.3"
     },
     "conflict": {
