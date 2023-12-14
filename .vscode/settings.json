@@ -1,3 +1,9 @@
 {
-  "conventionalCommits.scopes": ["modules", "gitignore", "ddev", "drupal"]
+  "conventionalCommits.scopes": [
+    "modules",
+    "gitignore",
+    "ddev",
+    "drupal",
+    "security"
+  ]
 }
