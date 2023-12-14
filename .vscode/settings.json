@@ -4,6 +4,7 @@
     "gitignore",
     "ddev",
     "drupal",
-    "security"
+    "security",
+    "config"
   ]
 }

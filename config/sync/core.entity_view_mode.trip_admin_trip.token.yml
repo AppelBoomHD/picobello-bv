@@ -1,0 +1,10 @@
+uuid: 804b10af-1098-46d0-844f-84778b001196
+langcode: en
+status: true
+dependencies:
+  module:
+    - trip_admin
+id: trip_admin_trip.token
+label: Token
+targetEntityType: trip_admin_trip
+cache: true

@@ -1,0 +1,13 @@
+uuid: e860a228-7d96-4527-b8d5-e845597693cc
+langcode: en
+status: true
+dependencies:
+  module:
+    - trip_admin
+_core:
+  default_config_hash: pt15lvQxtG_b7ICS4y3KdCg0Dq2QYRDghik_EYGWctg
+id: trip_admin_order_save_action
+label: 'Save orders'
+type: trip_admin_order
+plugin: 'entity:save_action:trip_admin_order'
+configuration: {  }

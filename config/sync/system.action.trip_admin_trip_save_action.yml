@@ -1,0 +1,13 @@
+uuid: b180b4ce-9477-4f10-b5e5-c25061594b0f
+langcode: en
+status: true
+dependencies:
+  module:
+    - trip_admin
+_core:
+  default_config_hash: BijQfUlqtqDkI3GOm0tIOla-n8ue80aoa_HOHAAHNYo
+id: trip_admin_trip_save_action
+label: 'Save trips'
+type: trip_admin_trip
+plugin: 'entity:save_action:trip_admin_trip'
+configuration: {  }

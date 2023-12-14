@@ -1,0 +1,111 @@
+uuid: 8d1b1920-099e-458a-80bd-1391278c151a
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.article
+    - node.type.blog
+    - node.type.page
+    - taxonomy.vocabulary.tags
+  module:
+    - comment
+    - contextual
+    - file
+    - node
+    - paragraphs
+    - paragraphs_type_permissions
+    - path
+    - system
+    - taxonomy
+    - toolbar
+    - tour
+    - trip_admin
+    - webform
+_core:
+  default_config_hash: NtMgnXp0miNtJhag07NSjwdCm4zpJwhlDFs1HgyL4wI
+id: content_editor
+label: 'Content editor'
+weight: 2
+is_admin: false
+permissions:
+  - 'access administration pages'
+  - 'access any webform configuration'
+  - 'access content overview'
+  - 'access contextual links'
+  - 'access files overview'
+  - 'access own webform configuration'
+  - 'access toolbar'
+  - 'access tour'
+  - 'access webform help'
+  - 'access webform overview'
+  - 'access webform submission user'
+  - 'administer content types'
+  - 'administer nodes'
+  - 'administer paragraphs settings'
+  - 'administer paragraphs types'
+  - 'administer url aliases'
+  - 'administer webform'
+  - 'administer webform element access'
+  - 'administer webform submission'
+  - 'bypass node access'
+  - 'bypass paragraphs type content access'
+  - 'create article content'
+  - 'create blog content'
+  - 'create page content'
+  - 'create terms in tags'
+  - 'create trip_admin_order'
+  - 'create trip_admin_stop'
+  - 'create trip_admin_trip'
+  - 'create url aliases'
+  - 'create webform'
+  - 'delete all revisions'
+  - 'delete any article content'
+  - 'delete any blog content'
+  - 'delete any page content'
+  - 'delete any webform'
+  - 'delete any webform submission'
+  - 'delete article revisions'
+  - 'delete blog revisions'
+  - 'delete own article content'
+  - 'delete own blog content'
+  - 'delete own files'
+  - 'delete own page content'
+  - 'delete own webform'
+  - 'delete own webform submission'
+  - 'delete page revisions'
+  - 'delete trip_admin_order'
+  - 'delete trip_admin_stop'
+  - 'delete trip_admin_trip'
+  - 'edit any article content'
+  - 'edit any blog content'
+  - 'edit any page content'
+  - 'edit any webform'
+  - 'edit any webform submission'
+  - 'edit behavior plugin settings'
+  - 'edit own article content'
+  - 'edit own blog content'
+  - 'edit own comments'
+  - 'edit own page content'
+  - 'edit own webform'
+  - 'edit own webform submission'
+  - 'edit terms in tags'
+  - 'edit trip_admin_order'
+  - 'edit trip_admin_stop'
+  - 'edit trip_admin_trip'
+  - 'edit webform assets'
+  - 'edit webform source'
+  - 'edit webform twig'
+  - 'edit webform variants'
+  - 'revert all revisions'
+  - 'revert article revisions'
+  - 'revert blog revisions'
+  - 'revert page revisions'
+  - 'view all revisions'
+  - 'view any webform submission'
+  - 'view article revisions'
+  - 'view blog revisions'
+  - 'view own unpublished content'
+  - 'view own webform submission'
+  - 'view page revisions'
+  - 'view the administration theme'
+  - 'view unpublished paragraphs'

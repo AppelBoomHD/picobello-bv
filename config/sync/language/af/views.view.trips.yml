@@ -1,0 +1,22 @@
+display:
+  default:
+    display_options:
+      title: Reise
+      fields:
+        id:
+          label: Reisnommer
+        description__format:
+          label: Beskrywing
+        start:
+          label: 'Begin Tyd'
+        completed:
+          label: Voltooi
+        stops_target_id:
+          label: Stop
+      filters:
+        start:
+          group_info:
+            description: ''
+        completed:
+          expose:
+            description: ''

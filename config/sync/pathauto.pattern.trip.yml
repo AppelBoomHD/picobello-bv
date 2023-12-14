@@ -1,0 +1,14 @@
+uuid: 63b34614-e916-4060-a9db-f53fdf227f8e
+langcode: en
+status: true
+dependencies:
+  module:
+    - trip_admin
+id: trip
+label: Trip
+type: 'canonical_entities:trip_admin_trip'
+pattern: 'trip/[trip_admin_trip:description]'
+selection_criteria: {  }
+selection_logic: and
+weight: 0
+relationships: {  }

@@ -1,0 +1,13 @@
+uuid: 767943d1-e92c-4593-8fa1-ac27d301c07e
+langcode: en
+status: true
+dependencies:
+  module:
+    - trip_admin
+_core:
+  default_config_hash: 2hnmre6H3XR3BCWz0Bh6_VKPjePFVAISnCZRonQQbwk
+id: trip_admin_trip_delete_action
+label: 'Delete trips'
+type: trip_admin_trip
+plugin: 'entity:delete_action:trip_admin_trip'
+configuration: {  }
